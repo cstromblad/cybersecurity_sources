@@ -1,198 +1,198 @@
-https://abuse.ch/rss/
-https://adalogics.com/blog.rss
-https://advisories.feedly.com/cisa/exploitedCve/feed.json
-https://arcticwolf.com/resources/category/blog/feed/
-https://asec.ahnlab.com/en/feed/
-https://asert.arbornetworks.com/feed/
-https://assurancemaladiesec.github.io/feed.xml
-https://backchannel.substack.com/feed/
-https://blog.aquasec.com/rss.xml
-https://blog.assetnote.io/feed.xml
-https://blog.avast.com/feed/
-https://blog.blacklanternsecurity.com/feed/
-https://blog.bushidotoken.net/feeds/posts/default
-https://blog.certfa.com/index.xml
-https://blog.chainalysis.com/feed/
-https://blog.cloudflare.com/rss/
-https://blog.comodo.com/feed/
-https://blog.confiant.com/feed
-https://blog.crysys.hu/feed/
-https://blog.detectify.com/rss
-https://blog.eclecticiq.com/rss.xml
-https://blog.emsisoft.com/feed/
-https://blog.eset.com/feed
-https://blog.exodusintel.com/feed/
-https://blog.google/threat-analysis-group/rss
-https://blog.grimm-co.com/feeds/posts/default?alt=rss
-https://blog.includesecurity.com/feed/
-https://blog.isosceles.com/rss/
-https://blog.kaspersky.com/feed/
-https://blog.korelogic.com/blog/index.rss
-https://blog.kryptoslogic.com/feed.xml
-https://blog.lumen.com/author/black-lotus-labs/feed/
-https://blog.malwarebytes.org/feed/
-https://blog.mindedsecurity.com/feeds/posts/default
-https://blog.morphisec.com/rss.xml
-https://blog.mozilla.com/security/feed/
-https://blog.phylum.io/rss/
-https://blog.portswigger.net/feeds/posts/default
-https://blog.rapid7.com/rss/
-https://blog.reversinglabs.com/blog/rss.xml
-https://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss
-https://blog.securelayer7.net/feed/
-https://blog.sekoia.io/feed/
-https://blog.shodan.io/rss/
-https://blogs.infoblox.com/feed/
-https://blogs.mcafee.com/author/mcafee-labs/feed?author_name=mcafee-labs
-https://blogs.microsoft.com/cybertrust/category/cybersecurity/feed/
-https://blogs.sans.org/computer-forensics/feed/
-https://blogs.sophos.com/feed/
-https://blog.sucuri.net/feed
-https://blog.talosintelligence.com/feeds/posts/default
-https://blog.threatstop.com/rss.xml
-https://blog.varonis.com/feed/
-https://blog.yoroi.company/cat/research/feed/
-https://blog.zimperium.com/feed/
-https://cerbero-blog.com/?feed=rss2
-https://certitude.consulting/blog/en/feed/
-https://cofense.com/feed/
-https://community.qualys.com/blogs/feeds/posts
-https://cujo.com/feed/
-https://cybermashup.com/feed/
-https://cyble.com/feed/
-https://darungrim.com/feed.xml
-https://decoded.avast.io/feed/
-https://digital-forensics.sans.org/blog/feed/
-https://digitasecurity.com/blog/index.xml
-https://dragos.com/feed/
-https://eclypsium.com/feed/
-https://feeds.feedblitz.com/alienvault-blogs&x=1
-https://feeds.feedburner.com/Checkmarx
-https://feeds.feedburner.com/cyren/pnbj
-https://feeds.feedburner.com/fortinet/blogs
-https://feeds.feedburner.com/GDatasecurityblog
-https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
-https://feeds.feedburner.com/Imperviews?format=xml
-https://feeds.feedburner.com/netsparker
-https://feeds.feedburner.com/Nirblog
-https://feeds.feedburner.com/TheAkamaiBlog
-https://feeds.feedburner.com/TrendMicroResearch
-https://feeds.feedburner.com/Unit42
-https://fortynorthsecurity.com/blog/rss/
-https://geneva.cs.umd.edu/posts/index.xml
-https://googleonlinesecurity.blogspot.com/atom.xml
-https://googleprojectzero.blogspot.com/feeds/posts/default
-https://grsecurity.net/blog.rss
-https://hackerone.com/news.rss
-https://harfanglab.io/en/insidethelab/feed/
-https://immunityproducts.blogspot.com/feeds/posts/default
-https://immunityservices.blogspot.com/feeds/posts/default
-https://infosec.exchange/@screaminggoat.rss
-https://ironpeak.be/blog/index.xml
-https://krebsonsecurity.com/feed/
-https://labs.jumpsec.com/feed/
-https://labs.watchtowr.com/rss/
-https://medium.com/feed/hackcura
-https://medium.com/feed/immunefi
-https://medium.com/feed/salesforce-engineering/tagged/security
-https://medium.com/feed/threat-hunters-forge
-https://medium.com/feed/walmartglobaltech/tagged/infosec
-https://nattothoughts.substack.com/feed
-https://news.sophos.com/en-us/category/threat-research/feed/
-https://news.sophos.com/feed/
-https://nsfocusglobal.com/feed/
-https://objective-see.com/rss.xml
-https://occamsec.com/feed/
-https://offensi.com/feed/
-https://offsec.provadys.com/feeds/all.atom.xml
-https://oxide.computer/blog/feed
-https://perception-point.io/feed/
-https://portswigger.net/research/rss
-https://posts.specterops.io/feed
-https://public.intel471.com/feed/
-https://read.martiandefense.llc/feed
-https://redhuntlabs.com/feed
-https://research.checkpoint.com/feed
-https://research.microsoft.com/rss/news.xml
-https://research.securitum.com/feed/
-https://securityblog.redhat.com/feed/
-https://securitylabs.datadoghq.com/rss/feed.xml
-https://socket.dev/api/feed.atom
-https://starlabs.sg/blog/index.xml
-https://web-in-security.blogspot.com/feeds/posts/default?alt=rss
-https://www.0ffset.net/feed/
-https://www.activecountermeasures.com/feed/
-https://www.adlice.com/feed/
-https://www.atredis.com/blog?format=RSS
-https://www.bc-security.org/feed/
-https://www.bellingcat.com/feed/
-https://www.bitdefender.com/blog/api/rss/labs/
-https://www.blackhillsinfosec.com/?feed=rss2
-https://www.bleepingcomputer.com/feed/
-https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CSW.xml
-https://www.cert.pl/en/feed/
-https://www.clearskysec.com/feed/
-https://www.cloudsek.com/blog/rss.xml
-https://www.coveware.com/blog?format=RSS
-https://www.cyberark.com/feed/
-https://www.cyberbit.com/feed/
-https://www.cybereason.com/blog/rss.xml
-https://www.cyber.gov.au/rssfeed/2
-https://www.cyberscoop.com/feed/
-https://www.cyentia.com/feed/
-https://www.detectionengineering.net/feed
-https://www.digitalshadows.com/blog-and-research/feed/
-https://www.directdefense.com/feed/
-https://www.elastic.co/security-labs/rss/feed.xml
-https://www.enisa.europa.eu/media/news-items/news-wires/RSS
-https://www.feistyduck.com/bulletproof-tls-newsletter/feed
-https://www.flashpoint-intel.com/blog/feed/
-https://www.gresearch.co.uk/feed/
-https://www.greynoise.io/blog/rss.xml
-https://www.guidepointsecurity.com/feed/
-https://www.hawk.io/blog?format=rss
-https://www.horizon3.ai/feed/
-https://www.huntress.com/blog/rss.xml
-https://www.ic3.gov/CSA/RSS
-https://www.insinuator.net/feed/
-https://www.intezer.com/feed/
-https://www.jamf.com/blog/rss/category/jamf-threat-labs
-https://www.kali.org/feed/
-https://www.maltego.com/index.xml
-https://www.mandiant.com/resources/blog/rss.xml
-https://www.mandiant.com/resources/rss.xml/article_blog
-https://www.microsoft.com/security/blog/feed/
-https://www.modzero.com/modlog/rss.xml
-https://www.nccgroup.com/us/research-blog/feed/
-https://www.ncsc.gov.uk/blogs-feed.xml
-https://www.netresec.com/rss.ashx
-https://www.nextron-systems.com/feed/
-https://www.offensive-security.com/feed/
-https://www.offensive-security.com/feed/
-https://www.optiv.com/resources/blog/feed
-https://www.phishlabs.com/feed/
-https://www.proofpoint.com/rss.xml
-https://www.proofpoint.com/us/threat-insight-blog.xml
-https://www.recordedfuture.com/feed/
-https://www.redcanary.co/feed/
-https://www.redcanary.com/blog/feed/
-https://www.redsiege.com/feed/
-https://www.rhinosecuritylabs.com/blog/feed/
-https://www.rumble.run/blog/index.xml
-https://www.sandflysecurity.com/feed/
-https://www.securelist.com/en/rss/allupdates
-https://www.sentinelone.com/feed/
-https://www.seqrite.com/blog/feed/
-https://www.shielder.it/blog/feed/
-https://www.slashnext.com/feed/
-https://www.somersetrecon.com/blog?format=RSS
-https://www.tenable.com/blog/feed
-https://www.thezdi.com/blog?format=RSS
-https://www.tripwire.com/state-of-security/feed/
-https://www.trustedsec.com/feed/
-https://www.trustwave.com/en-us/rss/spiderlabs-blog/
-https://www.us-cert.gov/channels/techalerts.rdf
-https://www.veracode.com/blog/feed/
-https://www.vkremez.com/feeds/posts/default
-https://www.volexity.com/blog/?feed=rss2
-https://www.zscaler.com/blogs/feeds
+- https://abuse.ch/rss/
+- https://adalogics.com/blog.rss
+- https://advisories.feedly.com/cisa/exploitedCve/feed.json
+- https://arcticwolf.com/resources/category/blog/feed/
+- https://asec.ahnlab.com/en/feed/
+- https://asert.arbornetworks.com/feed/
+- https://assurancemaladiesec.github.io/feed.xml
+- https://backchannel.substack.com/feed/
+- https://blog.aquasec.com/rss.xml
+- https://blog.assetnote.io/feed.xml
+- https://blog.avast.com/feed/
+- https://blog.blacklanternsecurity.com/feed/
+- https://blog.bushidotoken.net/feeds/posts/default
+- https://blog.certfa.com/index.xml
+- https://blog.chainalysis.com/feed/
+- https://blog.cloudflare.com/rss/
+- https://blog.comodo.com/feed/
+- https://blog.confiant.com/feed
+- https://blog.crysys.hu/feed/
+- https://blog.detectify.com/rss
+- https://blog.eclecticiq.com/rss.xml
+- https://blog.emsisoft.com/feed/
+- https://blog.eset.com/feed
+- https://blog.exodusintel.com/feed/
+- https://blog.google/threat-analysis-group/rss
+- https://blog.grimm-co.com/feeds/posts/default?alt=rss
+- https://blog.includesecurity.com/feed/
+- https://blog.isosceles.com/rss/
+- https://blog.kaspersky.com/feed/
+- https://blog.korelogic.com/blog/index.rss
+- https://blog.kryptoslogic.com/feed.xml
+- https://blog.lumen.com/author/black-lotus-labs/feed/
+- https://blog.malwarebytes.org/feed/
+- https://blog.mindedsecurity.com/feeds/posts/default
+- https://blog.morphisec.com/rss.xml
+- https://blog.mozilla.com/security/feed/
+- https://blog.phylum.io/rss/
+- https://blog.portswigger.net/feeds/posts/default
+- https://blog.rapid7.com/rss/
+- https://blog.reversinglabs.com/blog/rss.xml
+- https://blogs.aws.amazon.com/security/blog/feed/recentPosts.rss
+- https://blog.securelayer7.net/feed/
+- https://blog.sekoia.io/feed/
+- https://blog.shodan.io/rss/
+- https://blogs.infoblox.com/feed/
+- https://blogs.mcafee.com/author/mcafee-labs/feed?author_name=mcafee-labs
+- https://blogs.microsoft.com/cybertrust/category/cybersecurity/feed/
+- https://blogs.sans.org/computer-forensics/feed/
+- https://blogs.sophos.com/feed/
+- https://blog.sucuri.net/feed
+- https://blog.talosintelligence.com/feeds/posts/default
+- https://blog.threatstop.com/rss.xml
+- https://blog.varonis.com/feed/
+- https://blog.yoroi.company/cat/research/feed/
+- https://blog.zimperium.com/feed/
+- https://cerbero-blog.com/?feed=rss2
+- https://certitude.consulting/blog/en/feed/
+- https://cofense.com/feed/
+- https://community.qualys.com/blogs/feeds/posts
+- https://cujo.com/feed/
+- https://cybermashup.com/feed/
+- https://cyble.com/feed/
+- https://darungrim.com/feed.xml
+- https://decoded.avast.io/feed/
+- https://digital-forensics.sans.org/blog/feed/
+- https://digitasecurity.com/blog/index.xml
+- https://dragos.com/feed/
+- https://eclypsium.com/feed/
+- https://feeds.feedblitz.com/alienvault-blogs&x=1
+- https://feeds.feedburner.com/Checkmarx
+- https://feeds.feedburner.com/cyren/pnbj
+- https://feeds.feedburner.com/fortinet/blogs
+- https://feeds.feedburner.com/GDatasecurityblog
+- https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches
+- https://feeds.feedburner.com/Imperviews?format=xml
+- https://feeds.feedburner.com/netsparker
+- https://feeds.feedburner.com/Nirblog
+- https://feeds.feedburner.com/TheAkamaiBlog
+- https://feeds.feedburner.com/TrendMicroResearch
+- https://feeds.feedburner.com/Unit42
+- https://fortynorthsecurity.com/blog/rss/
+- https://geneva.cs.umd.edu/posts/index.xml
+- https://googleonlinesecurity.blogspot.com/atom.xml
+- https://googleprojectzero.blogspot.com/feeds/posts/default
+- https://grsecurity.net/blog.rss
+- https://hackerone.com/news.rss
+- https://harfanglab.io/en/insidethelab/feed/
+- https://immunityproducts.blogspot.com/feeds/posts/default
+- https://immunityservices.blogspot.com/feeds/posts/default
+- https://infosec.exchange/@screaminggoat.rss
+- https://ironpeak.be/blog/index.xml
+- https://krebsonsecurity.com/feed/
+- https://labs.jumpsec.com/feed/
+- https://labs.watchtowr.com/rss/
+- https://medium.com/feed/hackcura
+- https://medium.com/feed/immunefi
+- https://medium.com/feed/salesforce-engineering/tagged/security
+- https://medium.com/feed/threat-hunters-forge
+- https://medium.com/feed/walmartglobaltech/tagged/infosec
+- https://nattothoughts.substack.com/feed
+- https://news.sophos.com/en-us/category/threat-research/feed/
+- https://news.sophos.com/feed/
+- https://nsfocusglobal.com/feed/
+- https://objective-see.com/rss.xml
+- https://occamsec.com/feed/
+- https://offensi.com/feed/
+- https://offsec.provadys.com/feeds/all.atom.xml
+- https://oxide.computer/blog/feed
+- https://perception-point.io/feed/
+- https://portswigger.net/research/rss
+- https://posts.specterops.io/feed
+- https://public.intel471.com/feed/
+- https://read.martiandefense.llc/feed
+- https://redhuntlabs.com/feed
+- https://research.checkpoint.com/feed
+- https://research.microsoft.com/rss/news.xml
+- https://research.securitum.com/feed/
+- https://securityblog.redhat.com/feed/
+- https://securitylabs.datadoghq.com/rss/feed.xml
+- https://socket.dev/api/feed.atom
+- https://starlabs.sg/blog/index.xml
+- https://web-in-security.blogspot.com/feeds/posts/default?alt=rss
+- https://www.0ffset.net/feed/
+- https://www.activecountermeasures.com/feed/
+- https://www.adlice.com/feed/
+- https://www.atredis.com/blog?format=RSS
+- https://www.bc-security.org/feed/
+- https://www.bellingcat.com/feed/
+- https://www.bitdefender.com/blog/api/rss/labs/
+- https://www.blackhillsinfosec.com/?feed=rss2
+- https://www.bleepingcomputer.com/feed/
+- https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_CSW.xml
+- https://www.cert.pl/en/feed/
+- https://www.clearskysec.com/feed/
+- https://www.cloudsek.com/blog/rss.xml
+- https://www.coveware.com/blog?format=RSS
+- https://www.cyberark.com/feed/
+- https://www.cyberbit.com/feed/
+- https://www.cybereason.com/blog/rss.xml
+- https://www.cyber.gov.au/rssfeed/2
+- https://www.cyberscoop.com/feed/
+- https://www.cyentia.com/feed/
+- https://www.detectionengineering.net/feed
+- https://www.digitalshadows.com/blog-and-research/feed/
+- https://www.directdefense.com/feed/
+- https://www.elastic.co/security-labs/rss/feed.xml
+- https://www.enisa.europa.eu/media/news-items/news-wires/RSS
+- https://www.feistyduck.com/bulletproof-tls-newsletter/feed
+- https://www.flashpoint-intel.com/blog/feed/
+- https://www.gresearch.co.uk/feed/
+- https://www.greynoise.io/blog/rss.xml
+- https://www.guidepointsecurity.com/feed/
+- https://www.hawk.io/blog?format=rss
+- https://www.horizon3.ai/feed/
+- https://www.huntress.com/blog/rss.xml
+- https://www.ic3.gov/CSA/RSS
+- https://www.insinuator.net/feed/
+- https://www.intezer.com/feed/
+- https://www.jamf.com/blog/rss/category/jamf-threat-labs
+- https://www.kali.org/feed/
+- https://www.maltego.com/index.xml
+- https://www.mandiant.com/resources/blog/rss.xml
+- https://www.mandiant.com/resources/rss.xml/article_blog
+- https://www.microsoft.com/security/blog/feed/
+- https://www.modzero.com/modlog/rss.xml
+- https://www.nccgroup.com/us/research-blog/feed/
+- https://www.ncsc.gov.uk/blogs-feed.xml
+- https://www.netresec.com/rss.ashx
+- https://www.nextron-systems.com/feed/
+- https://www.offensive-security.com/feed/
+- https://www.offensive-security.com/feed/
+- https://www.optiv.com/resources/blog/feed
+- https://www.phishlabs.com/feed/
+- https://www.proofpoint.com/rss.xml
+- https://www.proofpoint.com/us/threat-insight-blog.xml
+- https://www.recordedfuture.com/feed/
+- https://www.redcanary.co/feed/
+- https://www.redcanary.com/blog/feed/
+- https://www.redsiege.com/feed/
+- https://www.rhinosecuritylabs.com/blog/feed/
+- https://www.rumble.run/blog/index.xml
+- https://www.sandflysecurity.com/feed/
+- https://www.securelist.com/en/rss/allupdates
+- https://www.sentinelone.com/feed/
+- https://www.seqrite.com/blog/feed/
+- https://www.shielder.it/blog/feed/
+- https://www.slashnext.com/feed/
+- https://www.somersetrecon.com/blog?format=RSS
+- https://www.tenable.com/blog/feed
+- https://www.thezdi.com/blog?format=RSS
+- https://www.tripwire.com/state-of-security/feed/
+- https://www.trustedsec.com/feed/
+- https://www.trustwave.com/en-us/rss/spiderlabs-blog/
+- https://www.us-cert.gov/channels/techalerts.rdf
+- https://www.veracode.com/blog/feed/
+- https://www.vkremez.com/feeds/posts/default
+- https://www.volexity.com/blog/?feed=rss2
+- https://www.zscaler.com/blogs/feeds
