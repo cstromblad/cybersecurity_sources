@@ -63,7 +63,7 @@
 - https://darungrim.com/feed.xml
 - https://decoded.avast.io/feed/
 - https://digital-forensics.sans.org/blog/feed/
-- https://digitasecurity.com/blog/index.xml
+- https://digitasecurity.com/blog/
 - https://dragos.com/feed/
 - https://eclypsium.com/feed/
 - https://feeds.feedblitz.com/alienvault-blogs&x=1
