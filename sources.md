@@ -168,7 +168,6 @@
 - https://www.netresec.com/rss.ashx
 - https://www.nextron-systems.com/feed/
 - https://www.offensive-security.com/feed/
-- https://www.offensive-security.com/feed/
 - https://www.optiv.com/resources/blog/feed
 - https://www.phishlabs.com/feed/
 - https://www.proofpoint.com/rss.xml
