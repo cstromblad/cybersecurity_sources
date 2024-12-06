@@ -1,4 +1,3 @@
-                                                                                                                                                                                                  ──(fre,dec06)─┘
 - https://abuse.ch/rss/
 - https://adalogics.com/blog.rss
 - https://advisories.feedly.com/cisa/exploitedCve/feed.json
