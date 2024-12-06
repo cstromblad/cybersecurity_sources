@@ -156,6 +156,7 @@
 - https://www.ic3.gov/CSA/RSS
 - https://www.insinuator.net/feed/
 - https://www.intezer.com/feed/
+- https://www.infostealers.com/learn-info-stealers/feed
 - https://www.jamf.com/blog/rss/category/jamf-threat-labs
 - https://www.kali.org/feed/
 - https://www.maltego.com/index.xml
